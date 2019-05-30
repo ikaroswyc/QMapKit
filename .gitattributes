@@ -1,3 +1,4 @@
 QMapKit filter=lfs diff=lfs merge=lfs -text
 QMapKit.a filter=lfs diff=lfs merge=lfs -text
 QMapKit.framework/QMapKit filter=lfs diff=lfs merge=lfs -text
+QMapKit.framework/ filter=lfs diff=lfs merge=lfs -text
