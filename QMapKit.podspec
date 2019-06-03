@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.platform     = :ios, "11.1"
+  spec.platform     = :ios, "5.1.1"
 
   spec.requires_arc = true
 
