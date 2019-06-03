@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "QMapKit"
-  spec.version      = "4.2.3.1"
+  spec.version      = "4.2.3.1.1"
   spec.summary      = "This is a QMapKit."
 
   # This description is used to generate tags and improve search results.
